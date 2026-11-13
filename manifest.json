@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "jameydavis.led-hoops",
   "name": "LED Hoops",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "Jamey Davis",
   "license": "MIT",
   "description": "A retro handheld LED basketball game: glowing red players on a 3-lane half court, a shot meter and a 24-second shot clock",
